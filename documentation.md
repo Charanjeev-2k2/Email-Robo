@@ -2,8 +2,7 @@ To use this repl to send automated emails, follow the below steps:
 __Step 1__
 Create a .env file and your details in it, as:
 EMAIL="your email"
-PASSWORD="your password" 
-__Step 2__
+PASSWORD="your password" __Step 2__
 Head over to this link and flick the "Allow less secure apps" lever to the on position: https://myaccount.google.com/u/0/lesssecureapps?hl=en to allow your account to execute the program!
 __Step 3__
 Remove 2 factor authentication form your account if you have one.
